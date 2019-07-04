@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Sky-Blue
+
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Email=l4k1987@gmail.com
+X-KDE-PluginInfo-Name=Sky-Blue
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-License=GPLv.3
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
